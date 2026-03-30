@@ -1,0 +1,16 @@
+ubuntu@ubuntu:~/OSS_Project$ ./script5.sh
+Answer three questions to generate your manifesto.
+
+1. Name one open-source tool you use every day: Android
+2. In one word, what does 'freedom' mean to you? Innovation
+3. Name one thing you would build and share freely: A free open source platform for freelancers like me to get exposer and find real clients.
+
+Manifesto saved to manifesto_ubuntu.txt
+
+
+Open Source Manifesto
+Date: 29 March 2026
+
+I use Android every day, and to me freedom means Innovation.
+I believe in sharing knowledge, and I would build A free open source platform for freelancers like me to gexposer and find real clients. for the community.
+ubuntu@ubuntu:~/OSS_Project$

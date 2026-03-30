@@ -1,0 +1,13 @@
+ubuntu@ubuntu:~/OSS_Project$ ./script1.sh
+================================
+Open Source Audit — Ausaaf Khan
+================================
+Kernel        : 6.17.0-5-generic
+Distro        : Ubuntu 25.10
+User          : ubuntu
+Home Directory: /home/ubuntu
+Uptime        : up 1 hour, 23 minutes
+Date          : Sun Mar 29 15:34:54 UTC 2026
+
+This system is powered by open-source software under the GNU General Public License (GPL).
+ubuntu@ubuntu:~/OSS_Project$

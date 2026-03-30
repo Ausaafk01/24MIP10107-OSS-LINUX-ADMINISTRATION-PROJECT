@@ -1,0 +1,12 @@
+ubuntu@ubuntu:~/OSS_Project$ ./script3.sh
+Directory Audit Report
+----------------------
+/etc => Permissions: drwxr-xr-x root root | Size: 7.9M
+/var/log => Permissions: drwxrwxr-x root syslog | Size: 19M
+/home => Permissions: drwxr-xr-x root root | Size: 93M
+/usr/bin => Permissions: drwxr-xr-x root root | Size: 279M
+/tmp => Permissions: drwxrwxrwt root root | Size: 8.0K
+
+Checking Python configuration directory...
+/usr/bin/python3 exists with Permissions: lrwxrwxrwx root root
+ubuntu@ubuntu:~/OSS_Project$ 
